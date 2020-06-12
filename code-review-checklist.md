@@ -1,8 +1,8 @@
 # Short description
 
-<!-- Describe what your feature does, why it does that, etc.-->
+_Describe what your feature does, why it does that, etc._
 
-- Link: <!-- link to ticket system which describes the user story -->
+- Link: _link to ticket system which describes the user story_
 
 
 # Checklist
