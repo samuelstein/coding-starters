@@ -6,10 +6,10 @@ _Describe what your feature does, why it does that, etc._
 
 
 # Checklist
-- [ ] The code is understandable and created according to the style guide.
 - [ ] The specifications of the macro and micro architecture are followed.
+- [ ] The code is minimal, understandable and created according to the code style guide.
 - [ ] Security vulnerability check performed.
-- [ ] The code has been sufficiently tested, the tests are clear and understandable and suitable to evaluate the functionality.
-- [ ] The code is minimal but sufficiently documented and understandable.
+- [ ] The code has been sufficiently tested, the tests are clear and suitable to evaluate the functionality.
+- [ ] The functionality is sufficiently documented (optional: adr).
 - [ ] Exceptions are handled sensibly.
 - [ ] No undocumented functions are available (e.g. a backdoor).
