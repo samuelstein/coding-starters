@@ -1,6 +1,7 @@
 # Short description
 
-_Describe what your feature does, why it does that, etc._
+_Describe what your feature is about.   
+Sometimes it is helpful to give more context or why it is implemented in that way, etc._
 
 - Link: _link to ticket system which describes the user story_
 
